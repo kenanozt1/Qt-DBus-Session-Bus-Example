@@ -83,6 +83,8 @@ GitHub: [@kenanozt1](https://github.com/kenanozt1)
 
 ## 📄 Lisans
 
+Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
+
 # Qt-DBus-Session-Bus-Example (English)
 This project presents an example of communication between two separate Qt applications (Client and Server) over **D-Bus (Session Bus)** using Qt framework. It is an educational work demonstrating how D-Bus signals and methods can be used with QML interface and C++ backend.
 
@@ -146,5 +148,3 @@ GitHub: [@kenanozt1](https://github.com/kenanozt1)
 ---
 ## 📄 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
